@@ -1,0 +1,74 @@
+
+
+/* css reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: verdana, arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.header-h1 {
+    text-align: center;
+}
+
+.header-h1 span {
+    color: rgba(255, 0, 0, 0.644);
+}
+
+.header-nav {
+    text-align: left;
+    margin: 10px 5px;
+    padding: 1em;
+    color: rgba(255, 0, 0, 0.644);
+}
+
+.header-nav ul li a {
+    color: rgba(255, 0, 0, 0.644);
+    text-decoration: none;
+    
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+img {
+    display: block;
+    height: 1em 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 12pt;
+    padding: 5vw;
+}
+
+.footer-nav a{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.644);
+}
+
+section.hometown-img {
+    margin: 0 auto;
+    padding: 2.5em 5em;
+    max-width: 800px;
+    display: flex; /* make this a flex parent */
+    justify-content: center; /* center the flex items horizontally */
+    gap: 5px;
+    text-align: center;
+}
+

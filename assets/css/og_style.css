@@ -1,0 +1,45 @@
+
+
+* {
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+/* imported font "bungee spice" */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+/* ---------------------------------------- */
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: slategrey;
+    color: black;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    font-weight: bold; font-size: 18pt;
+}
+
+/* main {} */
+    
+/* nav a {} */
+
+nav a:hover {
+    background-color: slategray;
+    text-decoration: underline;
+    border-radius: 50%;
+ 
+}
+
+.parkie {
+    border-radius: 50%;
+    box-shadow: inset;
+    align-content: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 12pt;
+    padding-bottom: 5vw;
+}
+
+
