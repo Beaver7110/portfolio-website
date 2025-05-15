@@ -1,0 +1,52 @@
+/* reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body style */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    columns: #eee;
+}
+
+main {
+    font-size: 14pt;
+    text-decoration: none;
+    margin: 1em;
+    padding: 1em;
+    border: 8px solid #333;
+    text-decoration: none;
+}
+
+section h1, a {
+    font-size: 22pt;
+    text-decoration: none;
+    color: #eee;
+    line-height: 30pt;
+    padding-bottom: 10px;
+}
+
+section h2 {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+section p {
+    line-height: 18pt;
+    padding-bottom: 20px;
+}
+
+.experience {
+    padding: 1em;
+}
+.experience ul li {
+    padding: 10px;
+}
+
+
+
+
