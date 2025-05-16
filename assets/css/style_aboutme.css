@@ -37,6 +37,9 @@
 
 .call-to-action {
     text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
 }
 
 
