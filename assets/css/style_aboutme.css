@@ -8,9 +8,31 @@
 
 /* body style */
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #eee;
+.basic-info {
+    text-align: center;
+}
+
+.basic-info h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.basic-info img {
+    width: 300px; height: auto;
+}
+
+.summary {
+    text-align: center;
+}
+
+.summary h1 {
+    font-size: 30pt;
+    margin-bottom: 10px;
+}
+
+.summary p {
+    font-size: 14pt;
+    margin-bottom: 5%;
 }
 
 
