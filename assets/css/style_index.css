@@ -111,10 +111,6 @@ nav ul li a:active {
     padding-bottom: 1em;
 }
 
-.call-to-action {
-    margin: 20px;
-}
-
 .call-to-action .btn {
     background-color: #333;
     color: #eee;
